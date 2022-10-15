@@ -31,6 +31,10 @@ body {
     border-image: repeating-linear-gradient(30deg, #dd240c, #d43505, #ac1339 20px)
     60;
   }
+  h4{
+    font-size: 35px;
+    font-weight: bold;
+  }
   .top-container img {
     width: 70%;
   }
@@ -64,4 +68,10 @@ body {
   }
   #div-background-color-3{
     background-color: rgb(248, 162, 100); 
+  }
+  .dev-bg{
+    background-image: url(assets/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 200px;
   }
