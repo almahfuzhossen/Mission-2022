@@ -1,0 +1,14 @@
+body {
+    font-family: "Poppins", sans-serif;
+  }
+  .content-text {
+    color: orange;
+  }
+  .link-hero-btn {
+    background-color: #42e9f5;
+    padding: 10px 40px;
+    text-decoration: none;
+    border-radius: 5px;
+    color: rgba(0, 0, 0, 0.842);
+    font-weight: 300;
+  }
