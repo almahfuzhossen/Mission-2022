@@ -75,3 +75,9 @@ body {
     background-position: left;
     background-size: 200px;
   }
+  .global-area-background{
+    background-size: 300px;
+    background-image: url(assets/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+  }
