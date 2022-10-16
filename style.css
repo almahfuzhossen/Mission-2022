@@ -39,3 +39,20 @@ body {
     display: flex;
     margin-bottom: 100px;
   }
+  #services-section {
+    text-align: center;
+    font-size: 36px;
+    font-weight: 900;
+  }
+  .service{
+    width: 30%;
+    height: 30%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+  }
+  .service img {
+    width: 100px;
+  }
