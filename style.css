@@ -12,3 +12,25 @@ body {
     color: rgba(0, 0, 0, 0.842);
     font-weight: 300;
   }
+  .flex-container {
+      display: flex;
+      margin-bottom: 100px;
+      justify-content: center;
+      align-items: center;
+  }
+  .top-container {
+    width: 45%;
+    margin-left: 5%;
+    align-items: center;
+  }
+  h1{
+    font-size: 50px;
+    border-left: 3px solid;
+    border-radius: 10px;
+    border-image-slice: 1;
+    border-image: repeating-linear-gradient(30deg, #dd240c, #d43505, #ac1339 20px)
+    60;
+  }
+  .top-container img {
+    width: 70%;
+  }
