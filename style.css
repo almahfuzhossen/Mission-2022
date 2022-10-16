@@ -50,9 +50,18 @@ body {
     margin-left: 5%;
     margin-right: 5%;
     padding: 10px;
-    border-radius: 5px;
+    border-radius: 20px;
     text-align: center;
   }
   .service img {
     width: 100px;
+  }
+  #div-background-color-1{
+    background-color: rgb(231, 212, 248);
+  }
+  #div-background-color-2{
+    background-color: rgb(190, 245, 227);
+  }
+  #div-background-color-3{
+    background-color: rgb(248, 162, 100); 
   }
