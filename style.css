@@ -81,3 +81,6 @@ body {
     background-repeat: no-repeat;
     background-position: right bottom;
   }
+  #text{
+    text-align: center;
+  }
