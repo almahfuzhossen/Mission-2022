@@ -84,3 +84,10 @@ body {
   #text{
     text-align: center;
   }
+.footer-area{
+  text-align: center;
+  background-color: black;
+  color: beige;
+  height: 100px;
+  padding: 30px;
+}
